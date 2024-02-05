@@ -7,9 +7,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **MongoDB and BLoCs**
+- 🌱 I’m currently learning **MongoDB and AWS**
 
-- 💬 Ask me about **Kotlin and Flutter**
+- 💬 Ask me about **React.js and Kotlin**
 
 - 📫 How to reach me **kevsalcedom@gmail.com**
 
