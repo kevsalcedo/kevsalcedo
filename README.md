@@ -19,7 +19,7 @@
   
   <br>
   
-<a href="https://linkedin.com/in/kevinsalcedom-android-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinsalcedom-android-developer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kevinsalcedom-full-stack-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinsalcedom-android-developer" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21022883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21022883" height="30" width="40" /></a>
 <a href="https://discord.gg/kesam#8474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kesam#8474" height="30" width="40" /></a>
 </p>
